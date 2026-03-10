@@ -1,2 +1,4 @@
 second file - test
 edit bugfix
+
+rec merge 2
