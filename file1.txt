@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 problem
 second file - test
 edit bugfix
