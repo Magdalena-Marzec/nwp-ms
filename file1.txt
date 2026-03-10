@@ -1,3 +1,4 @@
+change for recursive merge 1
 second file - test
 edit bugfix
 
